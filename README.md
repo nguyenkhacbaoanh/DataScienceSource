@@ -11,3 +11,7 @@
 
 # Math:
 - [Learning Math through Visualisation [Seeing Theory - Brown University]](https://seeing-theory.brown.edu)
+
+# Visualisation:
+- [D3.js](https://d3js.org):is a `JavaScript` library for manipulating documents based on data.
+- [LoDash](https://lodash.com): A modern JavaScript utility library delivering modularity, performance & extras.
