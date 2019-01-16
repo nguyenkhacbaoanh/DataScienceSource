@@ -21,3 +21,6 @@
 
 # ChatBot:
 - [Create a chat bot](https://cai.tools.sap)
+
+# Blog to learning:
+- [Technical Notes On Using Data Science & Artificial Intelligence (Auteur: `Chris ALBON`)](https://chrisalbon.com)
