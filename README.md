@@ -8,6 +8,7 @@
 
 # Deep learning:
 - [hadrienj.github.io](https://hadrienj.github.io/posts/)
+- [Optimation in Deep learning (Gradient Desdent)](http://ruder.io/optimizing-gradient-descent/)
 
 # Math:
 - [Learning Math through Visualisation [Seeing Theory - Brown University]](https://seeing-theory.brown.edu)
