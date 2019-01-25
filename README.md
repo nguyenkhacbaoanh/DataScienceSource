@@ -25,3 +25,5 @@
 
 # Blog to learning:
 - [Technical Notes On Using Data Science & Artificial Intelligence (Auteur: `Chris ALBON`)](https://chrisalbon.com)
+
+# [Stanford AI courses](http://ai.stanford.edu/courses/)
