@@ -6,6 +6,9 @@
 # IoT:
 - [M5Stack](https://hackspark.fr/fr/esp32/1539-m5stack-basic-kit-esp32-dev-module-wifi-bluetooth-4-lcd-battery-etc.html)
 
+# Machine Learning:
+- [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
+
 # Deep learning:
 - [hadrienj.github.io](https://hadrienj.github.io/posts/)
 - [Optimation in Deep learning (Gradient Desdent)](http://ruder.io/optimizing-gradient-descent/)
