@@ -8,7 +8,8 @@
 
 # Machine Learning:
 - [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
-- [Model stacking in practice](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+- [Model stacking in practice 1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
+- [stacking method on kaggle with test normal distribution](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
 # Deep learning:
 - [hadrienj.github.io](https://hadrienj.github.io/posts/)
 - [Optimation in Deep learning (Gradient Desdent)](http://ruder.io/optimizing-gradient-descent/)
