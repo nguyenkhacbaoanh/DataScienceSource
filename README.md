@@ -1,5 +1,4 @@
 # Data Science Source:
----
 # Python:
 - [Python Data Science HandBook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
@@ -11,6 +10,7 @@
 - [Model stacking in practice 1](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 - [stacking method on kaggle with test normal distribution](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
 - [Creme(API Machine Learning of Max Halford)](https://creme-ml.github.io): interested by GroupModel, Stacking Model and Recommendation System
+- [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.](http://rasbt.github.io/mlxtend/)
 # Deep learning:
 - [hadrienj.github.io](https://hadrienj.github.io/posts/)
 - [Optimation in Deep learning (Gradient Desdent)](http://ruder.io/optimizing-gradient-descent/)
