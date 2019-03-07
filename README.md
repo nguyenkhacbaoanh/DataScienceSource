@@ -11,6 +11,9 @@
 - [stacking method on kaggle with test normal distribution](https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard)
 - [Creme(API Machine Learning of Max Halford)](https://creme-ml.github.io): interested by GroupModel, Stacking Model and Recommendation System
 - [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.](http://rasbt.github.io/mlxtend/)
+- Survival Analysis:
+  - [lifeline](https://lifelines.readthedocs.io/en/latest/Quickstart.html#)
+  - [scikit-survival](https://scikit-survival.readthedocs.io/en/stable/api.html)
 # Deep learning:
 - [hadrienj.github.io](https://hadrienj.github.io/posts/)
 - [Optimation in Deep learning (Gradient Desdent)](http://ruder.io/optimizing-gradient-descent/)
