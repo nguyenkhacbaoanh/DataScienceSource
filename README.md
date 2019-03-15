@@ -1,6 +1,9 @@
 # Data Science Source:
 # Python:
 - [Python Data Science HandBook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+# Markov Chain Monte Carlo:
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Computional Statistics in Python](https://people.duke.edu/~ccc14/sta-663/MCMC.html)
 
 # IoT:
 - [M5Stack](https://hackspark.fr/fr/esp32/1539-m5stack-basic-kit-esp32-dev-module-wifi-bluetooth-4-lcd-battery-etc.html)
