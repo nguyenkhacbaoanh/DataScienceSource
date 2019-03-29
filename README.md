@@ -28,6 +28,7 @@
 - [D3.js](https://d3js.org):is a `JavaScript` library for manipulating documents based on data.
 - [LoDash](https://lodash.com): A modern JavaScript utility library delivering modularity, performance & extras.
 - [PyViz](http://pyviz.org/)
+- [Data Viz Catalogue](https://datavizcatalogue.com/)
 
 # Algorithm:
 - [Comparaison of sorting algorithm by visualisation](https://sorting.at)
