@@ -1,6 +1,7 @@
 # Data Science Source:
 # Python:
 - [Python Data Science HandBook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Code Example by Module](https://www.programcreek.com/python/)
 # Markov Chain Monte Carlo:
 - [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Computional Statistics in Python](https://people.duke.edu/~ccc14/sta-663/MCMC.html)
